@@ -29,7 +29,7 @@ Hi! I'm an AI & Data Science student passionate about technology, web developmen
 I joined this internship to gain hands-on experience, improve my development skills, and build projects that prepare me for a career in software development.
 
 ## Author
-**Cozychoas Shanq**
+dharshana j
 B.Tech Artificial Intelligence & Data Science
 
 ---
