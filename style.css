@@ -79,10 +79,14 @@ th{
     color:white;
 }
 
-th, td{
-    border:1px solid #ddd;
-    padding:12px;
-    text-align:center;
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    color: black;
+}
+td{background-color: white;
+color: #121212;
 }
 
 tr:nth-child(even){
@@ -137,4 +141,26 @@ button:hover{
         max-width: 100%;
         height: auto;
     }
+}
+.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+.dark-mode a {
+    color: #66ccff;
+}
+
+#themeToggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+.dark-mode section,
+.dark-mode .card,
+.dark-mode .container {
+    background-color: #1e1e1e;
+    color: white;
 }
